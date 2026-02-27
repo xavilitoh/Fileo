@@ -1,0 +1,11 @@
+/Volumes/MAC/Downloads/orden-cli/Organiza.Core/bin/Release/net10.0/Organiza.Core.deps.json
+/Volumes/MAC/Downloads/orden-cli/Organiza.Core/bin/Release/net10.0/Organiza.Core.dll
+/Volumes/MAC/Downloads/orden-cli/Organiza.Core/bin/Release/net10.0/Organiza.Core.pdb
+/Volumes/MAC/Downloads/orden-cli/Organiza.Core/obj/Release/net10.0/Organiza.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/MAC/Downloads/orden-cli/Organiza.Core/obj/Release/net10.0/Organiza.Core.AssemblyInfoInputs.cache
+/Volumes/MAC/Downloads/orden-cli/Organiza.Core/obj/Release/net10.0/Organiza.Core.AssemblyInfo.cs
+/Volumes/MAC/Downloads/orden-cli/Organiza.Core/obj/Release/net10.0/Organiza.Core.csproj.CoreCompileInputs.cache
+/Volumes/MAC/Downloads/orden-cli/Organiza.Core/obj/Release/net10.0/Organiza.Core.dll
+/Volumes/MAC/Downloads/orden-cli/Organiza.Core/obj/Release/net10.0/refint/Organiza.Core.dll
+/Volumes/MAC/Downloads/orden-cli/Organiza.Core/obj/Release/net10.0/Organiza.Core.pdb
+/Volumes/MAC/Downloads/orden-cli/Organiza.Core/obj/Release/net10.0/ref/Organiza.Core.dll

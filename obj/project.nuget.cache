@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "q9MPXtjuf1Q=",
+  "success": true,
+  "projectFilePath": "/Volumes/MAC/Downloads/orden-cli/orden-cli.csproj",
+  "expectedPackageFiles": [
+    "/Volumes/MAC/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Volumes/MAC/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Volumes/MAC/.nuget/packages/spectre.console/0.44.0/spectre.console.0.44.0.nupkg.sha512"
+  ],
+  "logs": []
+}

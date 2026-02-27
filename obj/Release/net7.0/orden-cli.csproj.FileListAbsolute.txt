@@ -1,0 +1,14 @@
+/Volumes/MAC/Downloads/orden-cli/bin/Release/net7.0/orden-cli
+/Volumes/MAC/Downloads/orden-cli/bin/Release/net7.0/orden-cli.deps.json
+/Volumes/MAC/Downloads/orden-cli/bin/Release/net7.0/orden-cli.runtimeconfig.json
+/Volumes/MAC/Downloads/orden-cli/bin/Release/net7.0/orden-cli.dll
+/Volumes/MAC/Downloads/orden-cli/bin/Release/net7.0/orden-cli.pdb
+/Volumes/MAC/Downloads/orden-cli/obj/Release/net7.0/orden-cli.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/MAC/Downloads/orden-cli/obj/Release/net7.0/orden-cli.AssemblyInfoInputs.cache
+/Volumes/MAC/Downloads/orden-cli/obj/Release/net7.0/orden-cli.AssemblyInfo.cs
+/Volumes/MAC/Downloads/orden-cli/obj/Release/net7.0/orden-cli.csproj.CoreCompileInputs.cache
+/Volumes/MAC/Downloads/orden-cli/obj/Release/net7.0/orden-cli.dll
+/Volumes/MAC/Downloads/orden-cli/obj/Release/net7.0/refint/orden-cli.dll
+/Volumes/MAC/Downloads/orden-cli/obj/Release/net7.0/orden-cli.pdb
+/Volumes/MAC/Downloads/orden-cli/obj/Release/net7.0/orden-cli.genruntimeconfig.cache
+/Volumes/MAC/Downloads/orden-cli/obj/Release/net7.0/ref/orden-cli.dll

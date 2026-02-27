@@ -1,0 +1,9 @@
+/Volumes/MAC/Downloads/orden-cli/Fileo.Core/bin/Release/net10.0/Fileo.Core.deps.json
+/Volumes/MAC/Downloads/orden-cli/Fileo.Core/bin/Release/net10.0/Fileo.Core.dll
+/Volumes/MAC/Downloads/orden-cli/Fileo.Core/bin/Release/net10.0/Fileo.Core.pdb
+/Volumes/MAC/Downloads/orden-cli/Fileo.Core/obj/Release/net10.0/Fileo.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/MAC/Downloads/orden-cli/Fileo.Core/obj/Release/net10.0/Fileo.Core.csproj.CoreCompileInputs.cache
+/Volumes/MAC/Downloads/orden-cli/Fileo.Core/obj/Release/net10.0/Fileo.Core.dll
+/Volumes/MAC/Downloads/orden-cli/Fileo.Core/obj/Release/net10.0/refint/Fileo.Core.dll
+/Volumes/MAC/Downloads/orden-cli/Fileo.Core/obj/Release/net10.0/Fileo.Core.pdb
+/Volumes/MAC/Downloads/orden-cli/Fileo.Core/obj/Release/net10.0/ref/Fileo.Core.dll
