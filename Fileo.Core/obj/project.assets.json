@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/MAC/Downloads/orden-cli/Fileo.Core/Fileo.Core.csproj",
+      "projectUniqueName": "/Volumes/MAC/Downloads/Fileo/Fileo.Core/Fileo.Core.csproj",
       "projectName": "Fileo.Core",
-      "projectPath": "/Volumes/MAC/Downloads/orden-cli/Fileo.Core/Fileo.Core.csproj",
+      "projectPath": "/Volumes/MAC/Downloads/Fileo/Fileo.Core/Fileo.Core.csproj",
       "packagesPath": "/Volumes/MAC/.nuget/packages/",
-      "outputPath": "/Volumes/MAC/Downloads/orden-cli/Fileo.Core/obj/",
+      "outputPath": "/Volumes/MAC/Downloads/Fileo/Fileo.Core/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Volumes/MAC/.nuget/NuGet/NuGet.Config"

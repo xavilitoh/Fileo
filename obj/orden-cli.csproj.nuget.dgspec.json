@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Volumes/MAC/Downloads/orden-cli/orden-cli.csproj": {}
+    "/Volumes/MAC/Downloads/Fileo/orden-cli.csproj": {}
   },
   "projects": {
-    "/Volumes/MAC/Downloads/orden-cli/Fileo.Core/Fileo.Core.csproj": {
+    "/Volumes/MAC/Downloads/Fileo/Fileo.Core/Fileo.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Volumes/MAC/Downloads/orden-cli/Fileo.Core/Fileo.Core.csproj",
+        "projectUniqueName": "/Volumes/MAC/Downloads/Fileo/Fileo.Core/Fileo.Core.csproj",
         "projectName": "Fileo.Core",
-        "projectPath": "/Volumes/MAC/Downloads/orden-cli/Fileo.Core/Fileo.Core.csproj",
+        "projectPath": "/Volumes/MAC/Downloads/Fileo/Fileo.Core/Fileo.Core.csproj",
         "packagesPath": "/Volumes/MAC/.nuget/packages/",
-        "outputPath": "/Volumes/MAC/Downloads/orden-cli/Fileo.Core/obj/",
+        "outputPath": "/Volumes/MAC/Downloads/Fileo/Fileo.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Volumes/MAC/.nuget/NuGet/NuGet.Config"
@@ -337,14 +337,14 @@
         }
       }
     },
-    "/Volumes/MAC/Downloads/orden-cli/orden-cli.csproj": {
+    "/Volumes/MAC/Downloads/Fileo/orden-cli.csproj": {
       "version": "0.1.2",
       "restore": {
-        "projectUniqueName": "/Volumes/MAC/Downloads/orden-cli/orden-cli.csproj",
+        "projectUniqueName": "/Volumes/MAC/Downloads/Fileo/orden-cli.csproj",
         "projectName": "fileo-cli",
-        "projectPath": "/Volumes/MAC/Downloads/orden-cli/orden-cli.csproj",
+        "projectPath": "/Volumes/MAC/Downloads/Fileo/orden-cli.csproj",
         "packagesPath": "/Volumes/MAC/.nuget/packages/",
-        "outputPath": "/Volumes/MAC/Downloads/orden-cli/obj/",
+        "outputPath": "/Volumes/MAC/Downloads/Fileo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Volumes/MAC/.nuget/NuGet/NuGet.Config"
@@ -359,8 +359,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "/Volumes/MAC/Downloads/orden-cli/Fileo.Core/Fileo.Core.csproj": {
-                "projectPath": "/Volumes/MAC/Downloads/orden-cli/Fileo.Core/Fileo.Core.csproj"
+              "/Volumes/MAC/Downloads/Fileo/Fileo.Core/Fileo.Core.csproj": {
+                "projectPath": "/Volumes/MAC/Downloads/Fileo/Fileo.Core/Fileo.Core.csproj"
               }
             }
           }
