@@ -5,7 +5,7 @@
     <Nullable>enable</Nullable>
     <PackAsTool>true</PackAsTool>
     <ToolCommandName>fileo</ToolCommandName>
-    <PackageId>Fileo</PackageId>
+    <PackageId>fileo-cli</PackageId>
     <Version>0.1.2</Version>
     <Authors>you</Authors>
     <Description>Fileo — organiza archivos en carpetas (Images, Documents, Archives, Apps).</Description>
