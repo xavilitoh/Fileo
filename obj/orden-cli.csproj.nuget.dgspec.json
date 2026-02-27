@@ -341,7 +341,7 @@
       "version": "0.1.2",
       "restore": {
         "projectUniqueName": "/Volumes/MAC/Downloads/Fileo/orden-cli.csproj",
-        "projectName": "Fileo",
+        "projectName": "fileo-cli",
         "projectPath": "/Volumes/MAC/Downloads/Fileo/orden-cli.csproj",
         "packagesPath": "/Volumes/MAC/.nuget/packages/",
         "outputPath": "/Volumes/MAC/Downloads/Fileo/obj/",
