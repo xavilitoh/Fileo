@@ -1,5 +1,0 @@
-/Volumes/MAC/Downloads/orden-cli/bin/Release/net7.0/publish/orden-cli
-/Volumes/MAC/Downloads/orden-cli/bin/Release/net7.0/publish/orden-cli.dll
-/Volumes/MAC/Downloads/orden-cli/bin/Release/net7.0/publish/orden-cli.deps.json
-/Volumes/MAC/Downloads/orden-cli/bin/Release/net7.0/publish/orden-cli.runtimeconfig.json
-/Volumes/MAC/Downloads/orden-cli/bin/Release/net7.0/publish/orden-cli.pdb
